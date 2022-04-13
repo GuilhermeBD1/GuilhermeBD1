@@ -1,17 +1,14 @@
-## Olá! eu sou Guilherme Belini
-
-- Hoje trabalho com hardware 
-- Estudando front-end
-
+<div align="center">
+ <h1> OLÁ! EU SOU GUILHERME BELINI DUARTE </h1>
+</div>
 <div align="center">
   <a href="https://github.com/GuilhermeBD1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBD1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBD1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
-<div style="display: inline_block" "center"><br><br>
+<div style="display: inline_block"><br><br>
   <img alt="Gui-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Gui-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Gui-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
